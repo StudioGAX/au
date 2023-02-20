@@ -6,19 +6,28 @@
     
 <style>
 body {
-	animation-name: backgroundColorPalette;
-	animation-duration: 499s;
-	animation-iteration-count: infinite;
-	animation-timing-function: linear; 
+        background: linear-gradient(180deg, 	#ffffff, #ffffff, #0000FF);
+    background-size: 200% 200%;
+
+    -webkit-animation: Animation 5s ease infinite;
+    -moz-animation: Animation 5s ease infinite;
+    animation: Animation 20s ease infinite;
 }
 
-@keyframes backgroundColorPalette {
-	0% {
-		background: white;
-	}
-	100% {
-		background: blue;
-	}
+@-webkit-keyframes Animation {
+    0%{background-position:10% 0%}
+    50%{background-position:91% 100%}
+    100%{background-position:10% 0%}
+}
+@-moz-keyframes Animation {
+    0%{background-position:10% 0%}
+    50%{background-position:91% 100%}
+    100%{background-position:10% 0%}
+}
+@keyframes Animation { 
+    0%{background-position:10% 0%}
+    50%{background-position:91% 100%}
+    100%{background-position:10% 0%}
 }
 
 H1 {
