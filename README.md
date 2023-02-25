@@ -1,12 +1,12 @@
 # au
 AU_version 1
 
--Equipment list
--Computer with internet access
--Webcam
--Media projector
--Projection screen / surface
--Stopwatch 
+1. Equipment list
+2. Computer with internet access
+3. Webcam
+4. Media projector
+5. Projection screen / surface
+- Stopwatch 
 -Power extension, power board, and leads to connect all your devices
 -Tripods*
 -Speaker*
