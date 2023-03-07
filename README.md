@@ -4,7 +4,7 @@ AU_version 1
 Equipment list:
 - Computer with internet access
 - Webcam
-- - edia projector
+- Media projector
 - Projection screen / surface
 - Stopwatch 
 - Power extension, power board, and leads to connect all your devices
